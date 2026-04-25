@@ -1,0 +1,7 @@
+{
+  "name": "Evolution Studio - SEO to Video",
+  "description": "Professional tool for Santiago Green Productions to transform SEO upload packages into cinematic animated videos with synced audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
